@@ -12,7 +12,7 @@ This application prompts the user for a series of inputs to customize their logo
 ## Usage
 
 1. Clone the repository: 
-`git clone <repository-url>`
+`git clone <https://github.com/keybit-1/Logo-Generator.git>`
 
 2. Install the required npm packages:
 `npm install`
