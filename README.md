@@ -1,4 +1,4 @@
-# SVG Logo Maker
+# Logo-Generator
 
 A Node.js command-line application to generate simple SVG logos.
 
