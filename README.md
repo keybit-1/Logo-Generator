@@ -27,7 +27,7 @@ This application prompts the user for a series of inputs to customize their logo
 
 ## Walkthrough Video
 
-For a full demonstration of the application's functionality and tests, please refer to the [walkthrough video](#).
+For a full demonstration of the application's functionality and tests, please refer to the [walkthrough video](https://youtu.be/fHmq_r_v3bU).
 
 ## Technologies Used
 
